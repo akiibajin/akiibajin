@@ -39,6 +39,7 @@ export const FutureSkills=():object[]=>{
 And here, there are some projects ↓↓↓.
 
 ### Mario World Map 🗺️
+<a href="https://github.com/akiibajin/Pi">Click Here!</a></br>
 <img src="BeFunky-collage.png" width="700" alt="And The Image?">
   - [x] React
   - [x] Redux
