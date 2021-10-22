@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![alt text](https://yadotek.com/wp-content/uploads/2020/07/jsposter.jpg)
+
+```javascript
+export const Profile =()=>{
+  let myStrengths={
+    backEnd:["NodeJS","Express","Sequelize"],
+    frontEnd:["React","Redux","CSS3"],
+    database: ["postgreSQL", "MySQL"]
+  }
+}
+```
