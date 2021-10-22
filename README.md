@@ -30,6 +30,12 @@ export const Profile =()=>{
   }
 }
 ```
+```typescript
+export const FutureSkills=():object[]=>{
+  let future:object[]
+  future=[{name:"TypeScript"},{name:"StoryBook"},{name:"Ruby"}]
+}
+```
 And here, there are some projects ↓↓↓.
 
 ### Mario World Map 🗺️
