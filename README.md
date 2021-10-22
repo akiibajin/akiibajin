@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![alt text](https://yadotek.com/wp-content/uploads/2020/07/jsposter.jpg)
 
 🇨🇴 I'm a Fullstack Web Developer who lives in Bogota, Colombia.
-🕺 I love dancing because it's a way to try a world of dance steps
-✍️ The same way I feel when develop a website, I have a lot of ways or steps to make any idea!.
+🕺 I love dancing because it's a way to try a world of dance steps.
+✍️ The same way I feel developing a website, I have a lot of ways or steps to make any idea!.
 🧑‍🎓 For that reason I'm continue learning and making new projects, I love the challenge of making all I need possible.
 ### My Skills↓↓↓ 📶
 ```javascript
