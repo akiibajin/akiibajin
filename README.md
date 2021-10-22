@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi thereq, my name is Hector 👋
 
 <!--
 **akiibajin/akiibajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![alt text](https://yadotek.com/wp-content/uploads/2020/07/jsposter.jpg)
