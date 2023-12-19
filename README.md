@@ -17,23 +17,29 @@ Here are some ideas to get you started:
 ![alt text](https://yadotek.com/wp-content/uploads/2020/07/jsposter.jpg)
 
 🇨🇴 I'm a Fullstack Web Developer who lives in Bogota, Colombia.
+🔭 I’m currently working on ITGlobers as a Semi-senior Front-end Developer
+🌱 I’m currently learning Rust Programming lenguage
 🕺 I love dancing because it's a way to try a world of dance steps.
 ✍️ The same way I feel developing a website, I have a lot of ways or steps to make any idea!.
 🧑‍🎓 For that reason I'm continue learning and making new projects, I love the challenge of making all I need possible.
 ### My Skills↓↓↓ 📶
 ```javascript
-export const Profile =()=>{
+export const Profile = () => {
   let myStrengths={
-    backEnd:["NodeJS","Express","Sequelize"],
-    frontEnd:["React","Redux","CSS3"],
-    database: ["postgreSQL", "MySQL"]
+    backEnd:["NodeJS","Express|Sequelize", "Rust"],
+    frontEnd:["React|Redux", "React|Zustand","SvelteKit", "CSS3", "HTML5"],
+    database: ["postgreSQL", "MySQL", "MongoDb"],
+    desktopApps: ["ElectronJs", "Tauri"]
   }
 }
 ```
 ```typescript
-export const FutureSkills=():object[]=>{
-  let future:object[]
-  future=[{name:"TypeScript"},{name:"StoryBook"},{name:"Ruby"}]
+export interface ISkill {
+    name: string;
+}
+export const FutureSkills=():ISkill[]=>{
+  let futureSkills:ISkill[] = [{ name:"StoryBook" }, { name: "Flutter" }];
+  return futureSkills;
 }
 ```
 And here, there are some projects ↓↓↓.
