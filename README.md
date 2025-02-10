@@ -1,4 +1,4 @@
-## Hi thereq, my name is Hector 👋
+## Hi there, my name is Hector 👋
 
 <!--
 **akiibajin/akiibajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://yadotek.com/wp-content/uploads/2020/07/jsposter.jpg)
 
 🇨🇴 I'm a Fullstack Web Developer who lives in Bogota, Colombia.
 🔭 I’m currently working on ITGlobers as a Semi-senior Front-end Developer
@@ -38,17 +37,26 @@ export interface ISkill {
     name: string;
 }
 export const FutureSkills=():ISkill[]=>{
-  let futureSkills:ISkill[] = [{ name:"StoryBook" }, { name: "Flutter" }];
+  let futureSkills:ISkill[] = [{ name:"Rust" }, { name: "Tauri" }, { name: Unreal Engine }];
   return futureSkills;
 }
 ```
 And here, there are some projects ↓↓↓.
 
 ### Mario World Map 🗺️
-<a href="https://github.com/akiibajin/Pi">Click Here!</a></br>
+<a href="https://github.com/akiibajin/Pi" target='_blank'>Click Here!</a></br>
 <img src="BeFunky-collage.png" width="700" alt="And The Image?">
   - [x] React
   - [x] Redux
   - [x] NodeJS
   - [x] Express
-  - [x] Sequelize 
+  - [x] Sequelize
+
+
+### Portfolio Web 💼
+<a href="https://github.com/akiibajin/portfolio-dev" targewt='_blank'>Click Here!</a></br>
+<img src="portfolio.png" width="700" alt="And The Image?">
+  - [x] Astro
+  - [x] Svelte
+  - [x] TypeScript
+  - [x] TailwindCSS 
