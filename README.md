@@ -55,7 +55,7 @@ And here, there are some projects ↓↓↓.
 
 ### Portfolio Web 💼
 <a href="https://github.com/akiibajin/portfolio-dev" targewt='_blank'>Click Here!</a></br>
-<img src="portfolio.png" width="700" alt="And The Image?">
+![Screenshot 2025-02-10 184154](https://github.com/user-attachments/assets/4b74485e-17e0-46f3-ac08-da83adf13020)
   - [x] Astro
   - [x] Svelte
   - [x] TypeScript
